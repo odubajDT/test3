@@ -2,7 +2,7 @@ affinity: {}
 image: docker.io/grabnerandi/simplenodeservice:1.0.0
 ingress:
   clusterIssuer: issuer.letsencrypt
-  ingressHost: http://localhost:38171
+  ingressHost: api-gateway-nginx
   secretName: keptn-tls
 nodeSelector: {}
 pullPolicy: Always
