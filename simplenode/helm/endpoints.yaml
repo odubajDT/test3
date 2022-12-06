@@ -1,0 +1,4 @@
+#deploymentURIsLocal:
+#  - "<my-local-url>" # e.g. http://my-service.sockshop-dev:8080
+deploymentURIsPublic:
+  - "http://simplenode.delivery-rollout-prod.http://localhost:38171:80/"
